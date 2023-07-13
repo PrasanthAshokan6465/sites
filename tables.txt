@@ -69,3 +69,6 @@ apc_news
 icn_news
 migrationsverket_news
 worldywca_news
+awid_news
+grainesdepaix_news
+hqai_news
