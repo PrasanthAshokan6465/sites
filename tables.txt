@@ -72,3 +72,4 @@ worldywca_news
 awid_news
 grainesdepaix_news
 hqai_news
+fnlp_news
