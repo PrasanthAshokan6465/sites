@@ -90,3 +90,5 @@ bcorporation_news
 theclimategroup_news
 transparency_news
 goodweave_news
+ilo_news
+workersrights_news
