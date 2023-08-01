@@ -93,3 +93,4 @@ goodweave_news
 ilo_news
 workersrights_news
 laborrights_news
+endslaverynow_news
