@@ -96,3 +96,5 @@ laborrights_news
 endslaverynow_news
 brac_news
 pennfuture_news
+breakfreefromplastic_news
+eurordis_news
