@@ -101,3 +101,4 @@ eurordis_news
 actalliance_news
 csw_news
 coc_news
+everycasualty_news
