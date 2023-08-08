@@ -53,7 +53,7 @@ fairwear_news
 sourcingnetwork_news
 responsiblebusiness_news
 fairlabor_news
-business-humanrights_news
+businesshumanrights_news
 cleanclothes_news
 sharecast_news
 outrightinternational_news
@@ -102,3 +102,4 @@ actalliance_news
 csw_news
 coc_news
 everycasualty_news
+ansvarligfremtid_news
