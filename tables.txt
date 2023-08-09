@@ -103,3 +103,4 @@ csw_news
 coc_news
 everycasualty_news
 ansvarligfremtid_news
+banktrack_news
