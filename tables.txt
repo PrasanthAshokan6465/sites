@@ -106,3 +106,5 @@ ansvarligfremtid_news
 banktrack_news
 licra_news
 citizen_news
+earthrights_news
+globallaborjustice_news
