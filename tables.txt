@@ -109,3 +109,4 @@ citizen_news
 earthrights_news
 globallaborjustice_news
 ran_news
+eiainternational_news
