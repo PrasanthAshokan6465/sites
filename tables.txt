@@ -112,3 +112,4 @@ ran_news
 eiainternational_news
 icar_news
 foejapan_news
+ccacoalition_news
