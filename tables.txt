@@ -111,3 +111,4 @@ globallaborjustice_news
 ran_news
 eiainternational_news
 icar_news
+foejapan_news
