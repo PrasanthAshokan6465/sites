@@ -114,3 +114,4 @@ icar_news
 foejapan_news
 ccacoalition_news
 chinalaborwatch_news
+seh_news
