@@ -116,3 +116,4 @@ ccacoalition_news
 chinalaborwatch_news
 seh_news
 electronicswatch_news
+foodwatch_news
