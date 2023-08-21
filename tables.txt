@@ -117,3 +117,5 @@ chinalaborwatch_news
 seh_news
 electronicswatch_news
 foodwatch_news
+nishoren_news
+wildlifesos_news
