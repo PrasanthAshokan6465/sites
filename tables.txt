@@ -120,3 +120,5 @@ foodwatch_news
 nishoren_news
 wildlifesos_news
 ecpat_news
+plantfortheplanet_news
+germanwatch_news
