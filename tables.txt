@@ -122,3 +122,4 @@ wildlifesos_news
 ecpat_news
 plantfortheplanet_news
 germanwatch_news
+landesa_news
