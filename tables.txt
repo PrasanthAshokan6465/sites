@@ -124,3 +124,5 @@ plantfortheplanet_news
 germanwatch_news
 landesa_news
 forumzfd_news
+acumen_news
+mercycorps_news
