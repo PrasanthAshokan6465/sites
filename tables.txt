@@ -126,3 +126,5 @@ landesa_news
 forumzfd_news
 acumen_news
 mercycorps_news
+ashoka_news
+gatesfoundation_news
