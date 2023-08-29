@@ -128,3 +128,5 @@ acumen_news
 mercycorps_news
 ashoka_news
 gatesfoundation_news
+nfint_news
+bankwatch_news
