@@ -130,3 +130,5 @@ ashoka_news
 gatesfoundation_news
 nfint_news
 bankwatch_news
+caneurope_news
+envhealth_news
