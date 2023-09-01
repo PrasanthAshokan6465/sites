@@ -135,3 +135,4 @@ envhealth_news
 greenpeace_news
 transportenvironment_news
 caritas_news
+cofaceeu_news
