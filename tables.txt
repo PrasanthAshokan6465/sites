@@ -114,7 +114,7 @@ icar_news
 foejapan_news
 ccacoalition_news
 chinalaborwatch_news
-seh_news
+sei_news
 electronicswatch_news
 foodwatch_news
 nishoren_news
