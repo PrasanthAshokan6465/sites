@@ -136,3 +136,6 @@ greenpeace_news
 transportenvironment_news
 caritas_news
 cofaceeu_news
+dynamointernational_news
+europeanmicrofinance_news
+esneu_news
