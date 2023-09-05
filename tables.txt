@@ -139,3 +139,5 @@ cofaceeu_news
 dynamointernational_news
 europeanmicrofinance_news
 esneu_news
+globalenergymonitor_news
+footprintnetwork_news
