@@ -141,3 +141,5 @@ europeanmicrofinance_news
 esneu_news
 globalenergymonitor_news
 footprintnetwork_news
+bsr_news
+plasticpollutioncoalition_news
