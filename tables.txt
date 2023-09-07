@@ -143,3 +143,5 @@ globalenergymonitor_news
 footprintnetwork_news
 bsr_news
 plasticpollutioncoalition_news
+antislavery_news
+globalfishingwatch_news
