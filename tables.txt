@@ -145,3 +145,5 @@ bsr_news
 plasticpollutioncoalition_news
 antislavery_news
 globalfishingwatch_news
+msf_news
+snv_news
