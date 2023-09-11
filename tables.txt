@@ -147,3 +147,5 @@ antislavery_news
 globalfishingwatch_news
 msf_news
 snv_news
+actionaid_news
+accessnow_news
