@@ -149,3 +149,5 @@ msf_news
 snv_news
 actionaid_news
 accessnow_news
+careinternational_news
+actioncontrelafaim_news
