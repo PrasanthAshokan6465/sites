@@ -151,3 +151,5 @@ actionaid_news
 accessnow_news
 careinternational_news
 actioncontrelafaim_news
+worldheartfederation_news
+osce_news
