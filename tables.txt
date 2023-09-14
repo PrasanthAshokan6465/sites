@@ -153,3 +153,5 @@ careinternational_news
 actioncontrelafaim_news
 worldheartfederation_news
 osce_news
+americanbar_news
+aclu_news
