@@ -155,3 +155,7 @@ worldheartfederation_news
 osce_news
 americanbar_news
 aclu_news
+afems_news
+350_news
+bigbrotherwatch_news
+rescue_news
