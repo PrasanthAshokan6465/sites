@@ -159,3 +159,5 @@ afems_news
 350_news
 bigbrotherwatch_news
 rescue_news
+wvi_news
+brotfuerdiewelt_news
