@@ -161,3 +161,5 @@ bigbrotherwatch_news
 rescue_news
 wvi_news
 brotfuerdiewelt_news
+idausa_news
+amnesty_news
