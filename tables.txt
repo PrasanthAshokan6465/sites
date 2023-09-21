@@ -163,3 +163,5 @@ wvi_news
 brotfuerdiewelt_news
 idausa_news
 amnesty_news
+stopchildlabor_news
+earth_news
