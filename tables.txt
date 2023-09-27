@@ -165,3 +165,6 @@ idausa_news
 amnesty_news
 stopchildlabor_news
 earth_news
+gaatw_news
+friendsofanimals_news
+solidarites_news
