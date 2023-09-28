@@ -168,3 +168,4 @@ earth_news
 gaatw_news
 friendsofanimals_news
 solidarites_news
+ibase_news
