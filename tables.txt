@@ -173,3 +173,5 @@ inclusioninternational_news
 aisaong_news
 jwl_news
 abaadmena_news
+omct_news
+wma_news
