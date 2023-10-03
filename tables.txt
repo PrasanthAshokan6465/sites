@@ -175,3 +175,5 @@ jwl_news
 abaadmena_news
 omct_news
 wma_news
+giescr_news
+icmc_news
