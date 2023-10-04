@@ -177,3 +177,5 @@ omct_news
 wma_news
 giescr_news
 icmc_news
+nbho_news
+ihffih_news
