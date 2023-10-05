@@ -179,3 +179,5 @@ giescr_news
 icmc_news
 nbho_news
 ihffih_news
+actioncanadashr_news
+actfordev_news
