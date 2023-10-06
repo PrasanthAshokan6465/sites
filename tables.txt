@@ -181,3 +181,5 @@ nbho_news
 ihffih_news
 actioncanadashr_news
 actfordev_news
+theadvocatesforhumanrights_news
+adalah_news
