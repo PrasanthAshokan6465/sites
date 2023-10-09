@@ -183,3 +183,5 @@ actioncanadashr_news
 actfordev_news
 theadvocatesforhumanrights_news
 adalah_news
+ihrb_news
+iom_news
