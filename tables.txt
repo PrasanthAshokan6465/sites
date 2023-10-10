@@ -185,3 +185,5 @@ theadvocatesforhumanrights_news
 adalah_news
 ihrb_news
 iom_news
+ghgprotocol_news
+iabolish_news
