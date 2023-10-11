@@ -187,3 +187,5 @@ ihrb_news
 iom_news
 ghgprotocol_news
 iabolish_news
+asylumaccess_news
+atheistalliance_news
