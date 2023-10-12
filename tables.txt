@@ -189,3 +189,5 @@ ghgprotocol_news
 iabolish_news
 asylumaccess_news
 atheistalliance_news
+asf_news
+pscore_news
