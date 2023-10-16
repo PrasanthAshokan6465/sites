@@ -74,7 +74,6 @@ fourpaws_news
 migrationsverket_news
 aecc_news
 worldywca_news
-worldblindunion_news
 awid_news
 grainesdepaix_news
 hqai_news
