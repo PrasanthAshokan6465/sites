@@ -192,3 +192,5 @@ asf_news
 pscore_news
 aimesafrique_news
 ash_news
+etcgroup_news
+zonta_news
