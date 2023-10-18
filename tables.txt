@@ -194,3 +194,5 @@ aimesafrique_news
 ash_news
 etcgroup_news
 zonta_news
+worldwideorganizationforwomen_news
+panda_news
