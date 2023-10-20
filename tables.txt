@@ -198,3 +198,5 @@ worldwideorganizationforwomen_news
 panda_news
 wucwo_news
 wupj_news
+ort_news
+wfdpigo_news
