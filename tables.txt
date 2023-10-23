@@ -200,3 +200,5 @@ wucwo_news
 wupj_news
 ort_news
 wfdpigo_news
+wfuna_news
+wftucentral_news
