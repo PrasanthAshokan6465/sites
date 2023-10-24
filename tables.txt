@@ -202,3 +202,5 @@ ort_news
 wfdpigo_news
 wfuna_news
 wftucentral_news
+wedo_news
+unicef_news
