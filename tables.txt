@@ -206,3 +206,4 @@ wedo_news
 unicef_news
 news_news
 ijm_news
+apg23_news
