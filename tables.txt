@@ -205,3 +205,4 @@ wftucentral_news
 wedo_news
 unicef_news
 news_news
+ijm_news
