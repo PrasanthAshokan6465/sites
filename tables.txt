@@ -208,3 +208,4 @@ news_news
 ijm_news
 apg23_news
 refugeecouncil_news
+climateforests_news
