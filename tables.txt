@@ -211,3 +211,7 @@ refugeecouncil_news
 climateforests_news
 scout_news
 omaec_news
+wfsahq_news
+wfpha_news
+wfmigp_news
+worldea_news
