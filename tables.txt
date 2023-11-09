@@ -215,3 +215,5 @@ wfsahq_news
 wfpha_news
 wfmigp_news
 worldea_news
+wcango_news
+wagggs_news
