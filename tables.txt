@@ -217,3 +217,5 @@ wfmigp_news
 worldea_news
 wcango_news
 wagggs_news
+waccglobal_news
+ymca_news
