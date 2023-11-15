@@ -223,3 +223,5 @@ wizo_news
 28jun_new
 7amleh_news
 agencedh_news
+askbd_news
+mezan_news
