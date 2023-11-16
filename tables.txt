@@ -225,3 +225,5 @@ wizo_news
 agencedh_news
 askbd_news
 mezan_news
+roiip_news
+aidaamericas_news
