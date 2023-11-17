@@ -227,3 +227,5 @@ askbd_news
 mezan_news
 roiip_news
 aidaamericas_news
+americanautomakers_news
+ageplatform_news
