@@ -229,3 +229,5 @@ roiip_news
 aidaamericas_news
 americanautomakers_news
 ageplatform_news
+alliancevita_news
+era_news
