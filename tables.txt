@@ -231,3 +231,5 @@ americanautomakers_news
 ageplatform_news
 alliancevita_news
 era_news
+accioecologistaagro_news
+amisdelaterre_news
