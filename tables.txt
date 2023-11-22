@@ -233,3 +233,5 @@ alliancevita_news
 era_news
 accioecologistaagro_news
 amisdelaterre_news
+arcj_news
+contraosagrotoxicos_news
