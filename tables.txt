@@ -235,3 +235,5 @@ accioecologistaagro_news
 amisdelaterre_news
 arcj_news
 contraosagrotoxicos_news
+stopmines23_news
+france_attac_news
