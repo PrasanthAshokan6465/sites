@@ -237,3 +237,5 @@ arcj_news
 contraosagrotoxicos_news
 stopmines23_news
 france_attac_news
+adega_news
+aspec_news
