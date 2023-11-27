@@ -239,3 +239,5 @@ stopmines23_news
 france_attac_news
 adega_news
 aspec_news
+asiaforanimals_news
+fairtrade_news
