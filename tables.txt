@@ -241,3 +241,4 @@ adega_news
 aspec_news
 asiaforanimals_news
 fairtrade_news
+abiaids_news
