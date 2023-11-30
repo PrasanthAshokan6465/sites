@@ -242,3 +242,4 @@ aspec_news
 asiaforanimals_news
 fairtrade_news
 abiaids_news
+afruca_news
