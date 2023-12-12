@@ -245,3 +245,4 @@ abiaids_news
 afruca_news
 apa_news
 transparentem_news
+verite_news
