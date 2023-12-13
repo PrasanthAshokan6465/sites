@@ -246,3 +246,5 @@ afruca_news
 apa_news
 transparentem_news
 verite_news
+bonsucro_news
+leatherworkinggroup_news
