@@ -248,3 +248,5 @@ transparentem_news
 verite_news
 bonsucro_news
 leatherworkinggroup_news
+stopthetraffik_news
+worldagroforestry_news
