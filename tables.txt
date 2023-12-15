@@ -250,3 +250,4 @@ bonsucro_news
 leatherworkinggroup_news
 stopthetraffik_news
 worldagroforestry_news
+cottoncampaign_news
