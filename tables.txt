@@ -254,3 +254,5 @@ cottoncampaign_news
 amazonconservation_news
 bisaubereluftostfriesland_news
 rspo_news
+globalforestwatch_news
+savethechildren_news
