@@ -258,3 +258,4 @@ globalforestwatch_news
 savethechildren_news
 businesshumanrights_de_news
 businesshumanrights_pt_news
+businesshumanrights_fr_news
