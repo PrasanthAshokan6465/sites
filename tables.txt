@@ -263,3 +263,4 @@ businesshumanrights_es_news
 businesshumanrights_ja_news
 businesshumanrights_en_news
 businesshumanrights_ar_news
+businesshumanrights_zh_news
