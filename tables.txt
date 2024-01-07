@@ -220,7 +220,7 @@ wagggs_news
 waccglobal_news
 ymca_news
 wizo_news
-28jun_new
+28jun_news
 7amleh_news
 agencedh_news
 askbd_news
