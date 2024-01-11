@@ -268,3 +268,4 @@ autosafety_news
 downtoearth_news
 mongabay_id_news
 mongabay_de_news
+mongabay_fr_news
