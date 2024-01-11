@@ -270,3 +270,4 @@ mongabay_id_news
 mongabay_de_news
 mongabay_fr_news
 mongabay_it_news
+mongabay_ja_news
