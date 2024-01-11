@@ -267,3 +267,4 @@ businesshumanrights_zh_news
 autosafety_news
 downtoearth_news
 mongabay_id_news
+mongabay_de_news
