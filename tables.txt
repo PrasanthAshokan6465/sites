@@ -274,3 +274,4 @@ mongabay_ja_news
 mongabay_pt_news
 mongabay_zh_news
 mongabay_india_news
+mongabay_es_news
