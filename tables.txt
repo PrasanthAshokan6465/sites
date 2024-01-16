@@ -276,3 +276,4 @@ mongabay_zh_news
 mongabay_india_news
 mongabay_es_news
 mongabay_en_news
+supplychain_news
