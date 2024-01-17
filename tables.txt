@@ -278,3 +278,4 @@ mongabay_es_news
 mongabay_en_news
 supplychain_news
 capitalthinkingblog_news
+greenpeace_de_news
