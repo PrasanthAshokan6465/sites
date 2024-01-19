@@ -280,3 +280,4 @@ supplychain_news
 capitalthinkingblog_news
 greenpeace_de_news
 labourbehindthelabel_news
+correctiv_news
