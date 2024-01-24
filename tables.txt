@@ -289,3 +289,4 @@ njff_news
 uniglobalunion_news
 zerowasteeurope_news
 notreaffaireatous_news
+remake_news
