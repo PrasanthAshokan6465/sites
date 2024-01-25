@@ -292,3 +292,4 @@ notreaffaireatous_news
 remake_news
 pracownia_news
 motvind_news
+capitalscoalition_news
