@@ -293,3 +293,4 @@ remake_news
 pracownia_news
 motvind_news
 capitalscoalition_news
+move_news
