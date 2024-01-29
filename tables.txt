@@ -295,3 +295,4 @@ motvind_news
 capitalscoalition_news
 move_news
 naturemwelt_news
+ifrro_news
