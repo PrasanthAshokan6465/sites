@@ -299,3 +299,4 @@ ifrro_news
 mab_news
 ncwarn_news
 testaankoop_news
+nopatentsonseeds_news
