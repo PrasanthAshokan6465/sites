@@ -302,3 +302,4 @@ testaankoop_news
 nopatentsonseeds_news
 priceofoil_news
 noah_news
+seawatch_news
