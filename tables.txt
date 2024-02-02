@@ -304,3 +304,4 @@ priceofoil_news
 noah_news
 seawatch_news
 ejfoundation_news
+ocmal_news
