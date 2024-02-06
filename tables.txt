@@ -307,3 +307,4 @@ ejfoundation_news
 ocmal_news
 traid_news
 fashionrevolution_news
+davidsuzuki_news
