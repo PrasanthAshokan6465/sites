@@ -310,3 +310,4 @@ fashionrevolution_news
 davidsuzuki_news
 kritischeaktionaere_news
 waronwant_news
+bankinformationcenter_news
