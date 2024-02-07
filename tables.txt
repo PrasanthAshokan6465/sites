@@ -309,3 +309,4 @@ traid_news
 fashionrevolution_news
 davidsuzuki_news
 kritischeaktionaere_news
+waronwant_news
