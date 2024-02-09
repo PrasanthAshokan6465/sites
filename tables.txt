@@ -311,3 +311,4 @@ davidsuzuki_news
 kritischeaktionaere_news
 waronwant_news
 bankinformationcenter_news
+globalstandard_news
