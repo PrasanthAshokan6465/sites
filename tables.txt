@@ -314,3 +314,4 @@ bankinformationcenter_news
 globalstandard_news
 sustainablefashion_news
 newstandardinstitute_news
+internationalmedicalcorps_news
