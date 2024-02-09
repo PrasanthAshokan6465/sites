@@ -313,3 +313,4 @@ waronwant_news
 bankinformationcenter_news
 globalstandard_news
 sustainablefashion_news
+newstandardinstitute_news
