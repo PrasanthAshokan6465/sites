@@ -323,3 +323,4 @@ mightyearth_news
 mediamatters_news
 islamicrelief_news
 resources_news
+sipri_news
