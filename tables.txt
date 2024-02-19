@@ -326,3 +326,4 @@ resources_news
 sipri_news
 focusweb_news
 globalcanopy_news
+rand_news
