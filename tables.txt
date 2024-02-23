@@ -334,3 +334,4 @@ ciforicraf_news
 theret_news
 westerncoloradoalliance_news
 grandcanyontrust_news
+global2000_news
