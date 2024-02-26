@@ -335,3 +335,5 @@ theret_news
 westerncoloradoalliance_news
 grandcanyontrust_news
 global2000_news
+libertadciudadana_news
+mfasia_news
