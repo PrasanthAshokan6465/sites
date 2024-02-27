@@ -337,3 +337,5 @@ grandcanyontrust_news
 global2000_news
 libertadciudadana_news
 mfasia_news
+greenpeace_es_news
+iwpr_news
