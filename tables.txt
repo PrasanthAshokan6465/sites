@@ -340,3 +340,4 @@ mfasia_news
 greenpeace_es_news
 iwpr_news
 greenpeace_it_news
+greenpeace_au_news
