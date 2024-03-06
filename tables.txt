@@ -343,3 +343,4 @@ greenpeace_it_news
 greenpeace_au_news
 womenforwomen_news
 satyarthi_news
+christianaid_news
