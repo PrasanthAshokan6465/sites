@@ -350,3 +350,4 @@ foei_news
 greenpeace_uk_news
 consumerreports_news
 corruptiontue_news
+clcv_news
