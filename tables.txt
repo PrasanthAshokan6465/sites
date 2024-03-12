@@ -352,3 +352,4 @@ consumerreports_news
 corruptiontue_news
 clcv_news
 fneaura_news
+commsdeclare_news
