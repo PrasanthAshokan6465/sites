@@ -354,3 +354,4 @@ clcv_news
 fneaura_news
 commsdeclare_news
 meic_news
+friendsoftheearth_news
