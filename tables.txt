@@ -358,3 +358,4 @@ friendsoftheearth_news
 consumentenbond_news
 consumeraction_news
 nffc_news
+consumerfed_news
