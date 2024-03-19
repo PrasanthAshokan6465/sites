@@ -360,3 +360,4 @@ consumeraction_news
 nffc_news
 consumerfed_news
 pewresearch_news
+ipinst_news
