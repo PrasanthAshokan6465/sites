@@ -361,3 +361,4 @@ nffc_news
 consumerfed_news
 pewresearch_news
 ipinst_news
+cfr_news
