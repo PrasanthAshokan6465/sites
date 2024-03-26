@@ -368,3 +368,4 @@ ifri_news
 fsb_news
 tni_news
 ldhfrance_news
+globalforestcoalition_news
