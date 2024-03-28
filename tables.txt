@@ -375,3 +375,4 @@ apheda_news
 wildsight_news
 peoplesvaccine_news
 basicint_news
+opsur_news
