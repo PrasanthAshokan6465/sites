@@ -373,3 +373,4 @@ genzforchange_news
 iwgb_news
 apheda_news
 wildsight_news
+peoplesvaccine_news
