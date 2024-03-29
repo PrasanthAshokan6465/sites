@@ -377,3 +377,4 @@ peoplesvaccine_news
 basicint_news
 opsur_news
 optionconsommateurs_news
+recourse_news
