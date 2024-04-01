@@ -378,3 +378,5 @@ basicint_news
 opsur_news
 optionconsommateurs_news
 recourse_news
+gruene_news
+paneurope_news
