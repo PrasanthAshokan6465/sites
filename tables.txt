@@ -386,3 +386,4 @@ dcaf_news
 ifj_news
 gbihr_news
 reluita_news
+actionintell_news
