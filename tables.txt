@@ -387,3 +387,4 @@ ifj_news
 gbihr_news
 reluita_news
 actionintell_news
+actioncontrelafaim_fr_news
