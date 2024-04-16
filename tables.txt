@@ -55,7 +55,6 @@ responsiblebusiness_news
 fairlabor_news
 businesshumanrights_news
 cleanclothes_news
-sharecast_news
 outrightinternational_news
 publiceye_news
 rutgers_news
