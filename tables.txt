@@ -389,3 +389,4 @@ actionintell_news
 actioncontrelafaim_fr_news
 enoughproject_news
 rspb_news
+saamicouncil_news
