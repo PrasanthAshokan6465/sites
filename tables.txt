@@ -391,3 +391,4 @@ enoughproject_news
 rspb_news
 saamicouncil_news
 clientearth_news
+uhrp_news
