@@ -393,3 +393,4 @@ saamicouncil_news
 clientearth_news
 uhrp_news
 miningweekly_news
+raiduk_news
