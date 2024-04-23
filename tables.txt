@@ -395,3 +395,4 @@ uhrp_news
 miningweekly_news
 raiduk_news
 impacttransform_news
+miningwatch_news
