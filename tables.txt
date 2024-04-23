@@ -396,3 +396,4 @@ miningweekly_news
 raiduk_news
 impacttransform_news
 miningwatch_news
+earthworks_news
