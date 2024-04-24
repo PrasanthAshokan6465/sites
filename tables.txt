@@ -398,3 +398,4 @@ impacttransform_news
 miningwatch_news
 earthworks_news
 respect_news
+solidaridadnetwork_news
