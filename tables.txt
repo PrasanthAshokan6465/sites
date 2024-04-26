@@ -399,3 +399,4 @@ miningwatch_news
 earthworks_news
 respect_news
 solidaridadnetwork_news
+hakirasilimali_news
