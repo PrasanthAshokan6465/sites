@@ -402,3 +402,4 @@ solidaridadnetwork_news
 hakirasilimali_news
 ecdpm_news
 afrewatch_news
+igfmining_news
