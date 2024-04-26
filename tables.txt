@@ -401,3 +401,4 @@ respect_news
 solidaridadnetwork_news
 hakirasilimali_news
 ecdpm_news
+afrewatch_news
