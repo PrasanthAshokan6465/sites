@@ -403,3 +403,4 @@ hakirasilimali_news
 ecdpm_news
 afrewatch_news
 igfmining_news
+artisanalgold_news
