@@ -404,3 +404,4 @@ ecdpm_news
 afrewatch_news
 igfmining_news
 artisanalgold_news
+pactworld_news
