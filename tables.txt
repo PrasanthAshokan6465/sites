@@ -407,3 +407,4 @@ artisanalgold_news
 pactworld_news
 resolve_news
 responsiblemines_news
+fairmined_news
