@@ -409,3 +409,4 @@ resolve_news
 responsiblemines_news
 fairmined_news
 halotrust_news
+wacamgh_news
