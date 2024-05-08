@@ -416,3 +416,4 @@ cigionline_news
 faircobaltalliance_news
 commdev_news
 conservationstrategy_news
+canopyplanet_news
