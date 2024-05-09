@@ -418,3 +418,4 @@ commdev_news
 conservationstrategy_news
 canopyplanet_news
 globalconservation_news
+forestsnews_news
