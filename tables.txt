@@ -419,3 +419,4 @@ conservationstrategy_news
 canopyplanet_news
 globalconservation_news
 forestsnews_news
+cenfa_news
