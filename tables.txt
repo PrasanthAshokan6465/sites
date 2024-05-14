@@ -422,3 +422,4 @@ forestsnews_news
 cenfa_news
 iied_news
 iucn_news
+womenandmining_news
