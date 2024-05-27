@@ -425,3 +425,4 @@ iucn_news
 womenandmining_news
 forourclimate_news
 hongkongwatch_news
+iatp_news
