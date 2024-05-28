@@ -427,3 +427,4 @@ forourclimate_news
 hongkongwatch_news
 iatp_news
 idec_news
+ethos_news
