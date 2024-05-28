@@ -428,3 +428,4 @@ hongkongwatch_news
 iatp_news
 idec_news
 ethos_news
+globalr2p_news
