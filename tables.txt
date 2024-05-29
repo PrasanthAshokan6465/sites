@@ -429,3 +429,5 @@ iatp_news
 idec_news
 ethos_news
 globalr2p_news
+guernevilleforestcoalition_news
+profundo_news
