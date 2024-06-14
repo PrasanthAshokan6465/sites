@@ -438,3 +438,4 @@ oceanrecov_news
 rethinkingvaluechains_news
 alamsehatlestari_news
 zerowastefrance_news
+fairfin_news
