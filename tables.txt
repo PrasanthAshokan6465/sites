@@ -440,3 +440,4 @@ rethinkingvaluechains_news
 alamsehatlestari_news
 zerowastefrance_news
 fairfin_news
+globallivingwage_news
