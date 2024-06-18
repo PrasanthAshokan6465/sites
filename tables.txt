@@ -441,3 +441,4 @@ alamsehatlestari_news
 zerowastefrance_news
 fairfin_news
 globallivingwage_news
+walkfree_news
