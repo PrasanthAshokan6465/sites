@@ -45,6 +45,7 @@ animalequality_news
 thebrooke_news
 globalmarch_news
 cocoainitiative_news
+walkfree_news
 lastradainternational_news
 polarisproject_news
 ethicaltrade_news
