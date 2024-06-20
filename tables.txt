@@ -446,3 +446,4 @@ corporateeurope_news
 fao_news
 mvonederland_news
 freedomhouse_news
+sensoneo_news
