@@ -452,3 +452,4 @@ cooperaccion_news
 wgea_news
 unep_news
 wirtschaftentwicklung_news
+bmas_news
