@@ -456,3 +456,4 @@ bmas_news
 corporateaccountability_news
 natuurenmilieu_news
 wakkerdier_news
+canadians_news
