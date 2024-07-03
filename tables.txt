@@ -459,3 +459,4 @@ wakkerdier_news
 canadians_news
 saveuighur_news
 chemsec_news
+genevaenvironmentnetwork_news
