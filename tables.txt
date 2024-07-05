@@ -463,3 +463,4 @@ genevaenvironmentnetwork_news
 metropolis_news
 oneplanetnetwork_news
 vbdo_news
+chainreactionresearch_news
