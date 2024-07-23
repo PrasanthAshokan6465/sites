@@ -470,3 +470,4 @@ opensecrets_news
 cyberacteurs_news
 dea_news
 cipmoz_news
+ecojustice_news
