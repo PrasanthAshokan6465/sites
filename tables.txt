@@ -471,3 +471,4 @@ cyberacteurs_news
 dea_news
 cipmoz_news
 ecojustice_news
+earthjustice_news
