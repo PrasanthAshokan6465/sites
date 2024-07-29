@@ -473,3 +473,4 @@ cipmoz_news
 ecojustice_news
 earthjustice_news
 ecodes_news
+equidem_news
