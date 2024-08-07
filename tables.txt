@@ -484,3 +484,4 @@ oekotest_news
 rainforestrescue_news
 fian_news
 ffw_news
+peta_fr_news
