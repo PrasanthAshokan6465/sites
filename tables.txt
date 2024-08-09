@@ -487,3 +487,4 @@ ffw_news
 peta_fr_news
 peta_nl_news
 peta_australia_news
+peta_india_news
