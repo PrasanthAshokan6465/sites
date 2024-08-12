@@ -489,3 +489,4 @@ peta_nl_news
 peta_australia_news
 peta_india_news
 peta_latino_news
+peta_asia_news
