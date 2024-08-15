@@ -492,3 +492,4 @@ peta_latino_news
 peta_asia_news
 tierrechtsblog_news
 peta_germany_news
+peta_uk_news
