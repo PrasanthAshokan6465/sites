@@ -497,3 +497,4 @@ foe_canada_news
 foe_asiapacific_news
 foe_scotland_news
 foodwatch_austria_news
+foodwatch_germany_news
