@@ -499,3 +499,4 @@ foe_scotland_news
 foodwatch_austria_news
 foodwatch_germany_news
 foe_uk_news
+fneasso_news
