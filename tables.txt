@@ -502,3 +502,4 @@ foe_uk_news
 fneasso_news
 sas_news
 gambleaware_news
+weareultraviolet_news
