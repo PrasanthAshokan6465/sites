@@ -503,3 +503,4 @@ fneasso_news
 sas_news
 gambleaware_news
 weareultraviolet_news
+swedwatch_news
