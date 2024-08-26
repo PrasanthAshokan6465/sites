@@ -504,3 +504,4 @@ sas_news
 gambleaware_news
 weareultraviolet_news
 swedwatch_news
+wrm_news
