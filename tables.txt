@@ -506,3 +506,4 @@ weareultraviolet_news
 swedwatch_news
 wrm_news
 standearth_news
+senecalakeguardian_news
