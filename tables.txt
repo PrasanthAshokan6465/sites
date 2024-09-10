@@ -518,3 +518,4 @@ somo_news
 empresasresponsables_news
 ucsusa_news
 neea_news
+positivemoney_news
