@@ -522,3 +522,4 @@ positivemoney_news
 prodesc_news
 forbrukerradet_news
 planettracker_news
+ituccsi_news
