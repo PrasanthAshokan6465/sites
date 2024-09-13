@@ -523,3 +523,4 @@ prodesc_news
 forbrukerradet_news
 planettracker_news
 ituccsi_news
+mothersforpeace_news
