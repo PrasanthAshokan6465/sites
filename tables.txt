@@ -525,3 +525,5 @@ planettracker_news
 ituccsi_news
 mothersforpeace_news
 greenfaith_news
+ethicalsupplychain_news
+financewatch_news
