@@ -528,3 +528,4 @@ greenfaith_news
 ethicalsupplychain_news
 financewatch_news
 naturvernforbundet_news
+terradedireitos_news
