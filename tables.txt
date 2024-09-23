@@ -529,3 +529,4 @@ ethicalsupplychain_news
 financewatch_news
 naturvernforbundet_news
 terradedireitos_news
+aafaglobal_news
