@@ -531,3 +531,4 @@ naturvernforbundet_news
 terradedireitos_news
 aafaglobal_news
 naturskyddsforeningen_news
+attac_news
