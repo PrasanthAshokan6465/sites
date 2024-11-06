@@ -530,3 +530,4 @@ financewatch_news
 naturvernforbundet_news
 terradedireitos_news
 aafaglobal_news
+naturskyddsforeningen_news
