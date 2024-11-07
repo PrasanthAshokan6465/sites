@@ -533,3 +533,4 @@ aafaglobal_news
 naturskyddsforeningen_news
 attac_news
 waddenvereniging_news
+veganfta_news
