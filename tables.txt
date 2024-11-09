@@ -535,3 +535,4 @@ attac_news
 waddenvereniging_news
 veganfta_news
 wwf_gr_news
+rseetped_news
