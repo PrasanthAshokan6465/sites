@@ -536,3 +536,4 @@ waddenvereniging_news
 veganfta_news
 wwf_gr_news
 rseetped_news
+foxglove_news
