@@ -539,3 +539,4 @@ rseetped_news
 foxglove_news
 wwf_eu_news
 danskepatienter_news
+foodwatch_netherlands_news
