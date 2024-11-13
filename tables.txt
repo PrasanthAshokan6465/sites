@@ -538,3 +538,4 @@ wwf_gr_news
 rseetped_news
 foxglove_news
 wwf_eu_news
+danskepatienter_news
