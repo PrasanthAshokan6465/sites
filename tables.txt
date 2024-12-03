@@ -101,6 +101,7 @@ csw_news
 coc_news
 everycasualty_news
 ansvarligfremtid_news
+bankonourfuture_news
 banktrack_news
 licra_news
 citizen_news
