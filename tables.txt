@@ -528,6 +528,7 @@ mothersforpeace_news
 greenfaith_news
 ethicalsupplychain_news
 financewatch_news
+fairplayforkids_news
 naturvernforbundet_news
 terradedireitos_news
 aafaglobal_news
