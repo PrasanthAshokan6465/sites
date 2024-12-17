@@ -544,3 +544,5 @@ danskepatienter_news
 foodwatch_netherlands_news
 disclose_news
 influencemap_news
+dogwoodbc_news
+earthqualizer_news
