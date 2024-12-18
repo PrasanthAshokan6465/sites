@@ -546,3 +546,4 @@ disclose_news
 influencemap_news
 dogwoodbc_news
 earthqualizer_news
+eauetrivieres_news
