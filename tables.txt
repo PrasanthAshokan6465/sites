@@ -551,3 +551,4 @@ eauetrivieres_news
 wbsj_news
 ccaej_news
 carbonmarketwatch_news
+counterhate_news
