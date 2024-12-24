@@ -553,3 +553,4 @@ ccaej_news
 carbonmarketwatch_news
 counterhate_news
 followthis_news
+climatecentral_news
