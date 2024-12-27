@@ -556,3 +556,4 @@ followthis_news
 climatecentral_news
 climatepolicyinitiative_news
 there100_news
+futureearth_news
