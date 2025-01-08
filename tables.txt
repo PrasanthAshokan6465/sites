@@ -562,3 +562,4 @@ cancer_news
 drawdown_news
 icrc_news
 greenpeace_germany_news
+pitchbook_news
