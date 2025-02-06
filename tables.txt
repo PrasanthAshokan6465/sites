@@ -565,3 +565,4 @@ greenpeace_germany_news
 pitchbook_news
 occrp_news
 peaceboat_news
+freedomunited_news
