@@ -566,3 +566,4 @@ pitchbook_news
 occrp_news
 peaceboat_news
 freedomunited_news
+ftc_news
