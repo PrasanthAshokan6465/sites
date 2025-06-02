@@ -573,3 +573,4 @@ osha_news
 desmog_news
 ash_uk_news
 als_news
+cdp_news
