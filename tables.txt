@@ -575,3 +575,4 @@ ash_uk_news
 als_news
 cdp_news
 dsw_news
+welthungerhilfe_news
