@@ -581,3 +581,4 @@ selc_news
 eko_news
 uia_news
 incomindios_news
+issfoundation_news
