@@ -582,3 +582,4 @@ eko_news
 uia_news
 incomindios_news
 issfoundation_news
+ohchr_news
