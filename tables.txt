@@ -585,3 +585,4 @@ issfoundation_news
 ohchr_news
 iacdglobal_news
 theiacp_news
+gcr_news
