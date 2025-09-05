@@ -587,3 +587,4 @@ iacdglobal_news
 theiacp_news
 gcr_news
 unccd_news
+greenerimpactint_news
