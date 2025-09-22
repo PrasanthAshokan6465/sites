@@ -589,3 +589,4 @@ gcr_news
 unccd_news
 greenerimpactint_news
 ikem_news
+corpwatch_news
