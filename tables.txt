@@ -590,3 +590,4 @@ unccd_news
 greenerimpactint_news
 ikem_news
 corpwatch_news
+oilwatch_africa_news
