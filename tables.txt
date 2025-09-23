@@ -591,3 +591,4 @@ greenerimpactint_news
 ikem_news
 corpwatch_news
 oilwatch_africa_news
+oilwatch_latinamerica_news
