@@ -592,3 +592,4 @@ ikem_news
 corpwatch_news
 oilwatch_africa_news
 oilwatch_latinamerica_news
+oilwatch_southasia_news
