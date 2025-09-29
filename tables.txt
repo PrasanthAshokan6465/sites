@@ -595,3 +595,4 @@ oilwatch_latinamerica_news
 oilwatch_southasia_news
 oilwatch_worldwide_news
 unison_news
+assosherpa_news
