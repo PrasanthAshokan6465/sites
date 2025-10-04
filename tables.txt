@@ -598,3 +598,4 @@ unison_news
 assosherpa_news
 bothends_news
 propublica_news
+shetnews_news
