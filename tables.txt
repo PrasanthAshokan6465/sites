@@ -599,3 +599,4 @@ assosherpa_news
 bothends_news
 propublica_news
 shetnews_news
+earthleagueinternational_news
