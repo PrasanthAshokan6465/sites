@@ -602,3 +602,4 @@ shetnews_news
 earthleagueinternational_news
 risingtide_news
 finanzen_news
+goodjobsfirst_news
