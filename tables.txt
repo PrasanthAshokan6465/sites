@@ -601,3 +601,4 @@ propublica_news
 shetnews_news
 earthleagueinternational_news
 risingtide_news
+finanzen_news
