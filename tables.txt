@@ -604,3 +604,4 @@ risingtide_news
 finanzen_news
 goodjobsfirst_news
 hrw_news
+ban_news
