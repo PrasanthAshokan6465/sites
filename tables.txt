@@ -605,3 +605,5 @@ finanzen_news
 goodjobsfirst_news
 hrw_news
 ban_news
+bafin_news
+xjdp_aspi_news
