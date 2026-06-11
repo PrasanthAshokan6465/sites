@@ -607,3 +607,6 @@ hrw_news
 ban_news
 bafin_news
 xjdp_aspi_news
+iuf_news
+iwto_news
+jaif_news
