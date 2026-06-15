@@ -611,3 +611,4 @@ iuf_news
 iwto_news
 jaif_news
 cividep_news
+iwanetwork_news
